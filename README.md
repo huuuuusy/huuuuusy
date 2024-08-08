@@ -6,14 +6,13 @@ My ![Visitor Count](https://profile-counter.glitch.me/huuuuusy/count.svg) visito
 
 # Hi there, I am Shiyu Hu (胡世宇)!
 
-I’ve got my Ph.D. degree at **[Institute of Automation, Chinese Academy of Sciences (中国科学院自动化研究所)](http://english.ia.cas.cn/)** and **[University of Chinese Academy of Sciences (中国科学院大学)](https://english.ucas.ac.cn/)** in Jan. 2024, supervised by **[Prof. Kaiqi Huang (黄凯奇)](https://people.ucas.ac.cn/~huangkaiqi)** (IAPR Fellow). 
-I am also fortunate to work with **[Prof. Xin Zhao (赵鑫)](https://www.xinzhaoai.com/)** to conduct research in computer vision.
-Before that, I received my master's degree from the **[Department of Computer Science, the University of Hong Kong (HKU)](https://www.cs.hku.hk/)** under the supervision of **[Prof. Choli Wang (王卓立)](https://www.cs.hku.hk/people/academic-staff/clwang)**.
+Currently, I am a Research Fellow at **[Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)**, working with **[Prof. Kanghao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319)**.
+Before that, I got my Ph.D. degree at **[Institute of Automation, Chinese Academy of Sciences (中国科学院自动化研究所)](http://english.ia.cas.cn/)** and **[University of Chinese Academy of Sciences (中国科学院大学)](https://english.ucas.ac.cn/)** in Jan. 2024, supervised by **[Prof. Kaiqi Huang (黄凯奇)](https://people.ucas.ac.cn/~huangkaiqi)** (IAPR Fellow), co-supervised by **[Prof. Xin Zhao (赵鑫)](https://www.xinzhaoai.com/)**.
+I received my master's degree from the **[Department of Computer Science, the University of Hong Kong (HKU)](https://www.cs.hku.hk/)** under the supervision of **[Prof. Choli Wang (王卓立)](https://www.cs.hku.hk/people/academic-staff/clwang)**.
 
-I strongly hold the belief that ***<font color=DarkRed>the development of artificial intelligence is inherently interconnected with human factors</font>***. Hence, drawing inspiration from the renowned *Turing Test*, I have focused my investigation on the concept of *Visual Turing Test*, aiming to integrate human elements into the examination of dynamic visual tasks. The ultimate goal of my previous work is to assess and analyze machine vision intelligence by benchmarking against human capabilities. 
-Please refer to the [🔍️ Research Interests](https://huuuuusy.github.io//#research-interests) for detailed information about my research foundation and ongoing projects.
+Besides, I am honored to collaborate with a group of outstanding researchers. We have established the **[Visual Intelligence Interest Group (VIIG)](http://viig.aitestunion.com/)** to promote research in related directions.
 
-> 📣 I am seeking a PostDoc position starting from Spring 2024. If you are interested in my research or would like to collaborate, please do not hesitate to contact me. You can download my [CV](https://huuuuusy.github.io/files/CV-EN.pdf) here.
+> 📣 If you are interested in my research direction or hope to cooperate with me, please contact me! Online or offline cooperations are all welcome (hushiyu199510@gmail.com). You can download my [CV](https://huuuuusy.github.io/files/CV-EN.pdf) here for more information about my research interests.
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuuuusy)](https://github.com/huuuuusy/github-readme-stats)
