@@ -10,9 +10,8 @@ Currently, I am a Research Fellow at **[Nanyang Technological University (NTU)](
 Before that, I got my Ph.D. degree at **[Institute of Automation, Chinese Academy of Sciences (中国科学院自动化研究所)](http://english.ia.cas.cn/)** and **[University of Chinese Academy of Sciences (中国科学院大学)](https://english.ucas.ac.cn/)** in Jan. 2024, supervised by **[Prof. Kaiqi Huang (黄凯奇)](https://people.ucas.ac.cn/~huangkaiqi)** (IAPR Fellow), co-supervised by **[Prof. Xin Zhao (赵鑫)](https://www.xinzhaoai.com/)**.
 I received my master's degree from the **[Department of Computer Science, the University of Hong Kong (HKU)](https://www.cs.hku.hk/)** under the supervision of **[Prof. Choli Wang (王卓立)](https://www.cs.hku.hk/people/academic-staff/clwang)**.
 
-Besides, I am honored to collaborate with a group of outstanding researchers. We have established the **[Visual Intelligence Interest Group (VIIG)](http://viig.aitestunion.com/)** to promote research in related directions.
 
-> 📣 If you are interested in my research direction or hope to cooperate with me, please contact me! Online or offline cooperations are all welcome (hushiyu199510@gmail.com). You can download my [CV](https://huuuuusy.github.io/files/CV-EN.pdf) here for more information about my research interests.
+> 📣 If you are interested in my research direction or hope to cooperate with me, please contact me! Online or offline cooperations are all welcome (shiyu.hu@ntu.edu.sg). You can download my [CV](https://huuuuusy.github.io/files/CV-EN.pdf) here for more information about my research interests.
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuuuusy)](https://github.com/huuuuusy/github-readme-stats)
